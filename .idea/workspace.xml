@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e114b8e5-73dd-4220-8e28-09455b85ccec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DockerExecCommand">
+    <ExecCommand>
+      <option name="command" value="php artisan migrate" />
+      <option name="imageId" value="sha256:87ba7dd39eaab374e04ead5fe8c7063f5b63045b3f75313ad98b0546e46ef053" />
+    </ExecCommand>
+  </component>
+  <component name="ProjectId" id="1tRzS2jJNgIzYlaGDEUHgi9Jk8L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.mysql: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="mysql" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.nginx: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="nginx" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml.mysql: Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml.nginx: Compose Deployment" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.nginx: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.mysql: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e114b8e5-73dd-4220-8e28-09455b85ccec" name="Default Changelist" comment="" />
+      <created>1622746685171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622746685171</updated>
+      <workItem from="1622746686269" duration="5954000" />
+      <workItem from="1622752726886" duration="1602000" />
+      <workItem from="1622754529928" duration="459000" />
+      <workItem from="1622763474195" duration="800000" />
+      <workItem from="1622764445396" duration="2377000" />
+      <workItem from="1622888548876" duration="599000" />
+      <workItem from="1622893129469" duration="586000" />
+      <workItem from="1622894224831" duration="117000" />
+      <workItem from="1625843676369" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\Git\bin\bash.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="264" key="#Docker" timestamp="1622766819151">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="724" y="264" key="#Docker/0.40.1920.1040@0.40.1920.1040" timestamp="1622766819151" />
+    <state x="970" y="522" key="#Path_mapping" timestamp="1622766787774">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="970" y="522" key="#Path_mapping/0.40.1920.1040@0.40.1920.1040" timestamp="1622766787774" />
+    <state x="414" y="214" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622766837781">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="414" y="214" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1622766837781" />
+    <state x="1255" y="379" key="FileChooserDialogImpl" timestamp="1622766781308">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="1255" y="379" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1622766781308" />
+    <state x="461" y="204" key="SettingsEditor" timestamp="1622765328185">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="461" y="204" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1622765328185" />
+  </component>
+</project>
